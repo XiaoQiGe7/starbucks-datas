@@ -1,0 +1,33 @@
+
+{
+    "data":[
+        {
+            "image":"https://www-static.chinacdn.starbucks.com.cn/prod/assets/images/homepage/tmall-card-01.png",
+            "title":"会员星礼包",
+            "text":"星享卡新升级",
+            "html":"更多心意好礼",
+            "id":"87623875439756"
+        },
+        {
+            "image":"https://www-static.chinacdn.starbucks.com.cn/prod/assets/images/homepage/tmall-card-02.png",
+            "title":"星礼卡",
+            "text":"用一份心礼",
+            "html":"让心意相随",
+            "id":"87623875439757"
+        },
+        {
+            "image":"https://www-static.chinacdn.starbucks.com.cn/prod/assets/images/homepage/tmall-eticket.png",
+            "title":"电子产品券",
+            "text":"心意",
+            "html":"从这一杯开始",
+            "id":"87623875439758"
+        },
+        {
+            "image":"https://www-static.chinacdn.starbucks.com.cn/prod/assets/images/homepage/tmall-reserve.png",
+            "title":"咖啡生活",
+            "text":"星巴克",
+            "html":"用心制作",
+            "id":"87623875439759"
+        }
+    ]
+}

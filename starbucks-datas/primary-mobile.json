@@ -1,0 +1,31 @@
+
+{
+    "data":[
+        {
+            "img":"https://www-static.chinacdn.starbucks.com.cn/prod/assets/icons/icon-home.svg",
+            "text":"主页",
+            "id":"26754382"
+        },
+        {
+            "img":"https://www-static.chinacdn.starbucks.com.cn/prod/assets/icons/icon-stores.svg",
+            "text":"门店",
+            "id":"26754383"
+        },
+        {
+            "img":"https://www-static.chinacdn.starbucks.com.cn/prod/assets/icons/icon-account.svg",
+            "text":"我的账户",
+            "id":"26754384"
+        },
+        {
+            "img":"https://www-static.chinacdn.starbucks.com.cn/prod/assets/icons/icon-menu.svg",
+            "text":"菜单",
+            "id":"26754385"
+        },
+        {
+            "img":"https://www-static.chinacdn.starbucks.com.cn/prod/assets/icons/icon-more.svg",
+            "text":"更多",
+            "id":"26754386"
+        }
+        
+    ]
+}
