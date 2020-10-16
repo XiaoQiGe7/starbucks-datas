@@ -1,0 +1,5 @@
+
+
+<view>
+  <navigator target="self" url="pages/im/im">点击跳转</navigator>
+</view>
